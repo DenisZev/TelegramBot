@@ -4,7 +4,7 @@
 Этот Телеграмм-бот позволяет пользователям получать уведомления о новых заказах на Wildberries через запросы к API.
 
 ## Установка
-1. Клонируйте репозиторий: git clone https://github.com/yourusername/yourrepository.git
+1. Клонируйте репозиторий: git clone 
 2. Перейдите в каталог проекта: cd yourrepository
 3. Установите необходимые зависимости: pip install -r requirements.txt
 
